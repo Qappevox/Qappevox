@@ -1,7 +1,7 @@
 - Hi, I’m @Qappevox
 - I’m interested in python3
 - I’m currently learning everything :)
-
+- I hate to add description on my projects :/
 
 
 <!---
